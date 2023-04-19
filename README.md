@@ -4,7 +4,7 @@
 Реализован тест на метод авторизации с описанием спецификации:
 ```bash
 POST
-https://demoqa.com/Account/v1/Authorized1
+https://demoqa.com/Account/v1/Authorized
 ```
 Так же, реализованы тесты на метод получения списка книг с описанием спецификации,
 
