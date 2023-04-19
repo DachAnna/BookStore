@@ -12,7 +12,7 @@ https://demoqa.com/Account/v1/Authorized1
 GET
 https://demoqa.com/BookStore/v1/Books
 ```
-в которых осуществляется проверка соответствия в ответе данных с помощью библиотеки Lombok: 
+в которых осуществляется проверка соответствия в ответе данных первой в списке книги с помощью библиотеки Lombok: 
 ```bash
 "books": [
     {
@@ -27,7 +27,7 @@ https://demoqa.com/BookStore/v1/Books
       "website": "http://chimera.labs.oreilly.com/books/1230000000561/index.html"
     }
  ```
-и при помощи Groovy проверяется наличие в ответе книги с автором "Axel Rauschmayer" :
+и при помощи Groovy проверяется наличие книги с автором "Axel Rauschmayer" :
 ```bash
 {
       "isbn": "9781449365035",
