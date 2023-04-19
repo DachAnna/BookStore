@@ -2,7 +2,7 @@
 
 ```bash
 POST
-https://demoqa.com/Account/v1/Authorized1
+https://demoqa.com/Account/v1/Authorized
 ```
 и
 
